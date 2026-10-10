@@ -1,0 +1,14 @@
+C:\Users\kammy\OneDrive\Documents\GitHub\eeee\e\target\debug\deps\serde-63245856bc5e850f.d: C:\Users\kammy\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.229\src\lib.rs C:\Users\kammy\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.229\src\integer128.rs C:\Users\kammy\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.229\src\private\mod.rs C:\Users\kammy\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.229\src\private\de.rs C:\Users\kammy\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.229\src\private\ser.rs C:\Users\kammy\OneDrive\Documents\GitHub\eeee\e\target\debug\build\serde-038d4055a2ce855b\out/private.rs
+
+C:\Users\kammy\OneDrive\Documents\GitHub\eeee\e\target\debug\deps\libserde-63245856bc5e850f.rlib: C:\Users\kammy\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.229\src\lib.rs C:\Users\kammy\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.229\src\integer128.rs C:\Users\kammy\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.229\src\private\mod.rs C:\Users\kammy\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.229\src\private\de.rs C:\Users\kammy\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.229\src\private\ser.rs C:\Users\kammy\OneDrive\Documents\GitHub\eeee\e\target\debug\build\serde-038d4055a2ce855b\out/private.rs
+
+C:\Users\kammy\OneDrive\Documents\GitHub\eeee\e\target\debug\deps\libserde-63245856bc5e850f.rmeta: C:\Users\kammy\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.229\src\lib.rs C:\Users\kammy\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.229\src\integer128.rs C:\Users\kammy\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.229\src\private\mod.rs C:\Users\kammy\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.229\src\private\de.rs C:\Users\kammy\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.229\src\private\ser.rs C:\Users\kammy\OneDrive\Documents\GitHub\eeee\e\target\debug\build\serde-038d4055a2ce855b\out/private.rs
+
+C:\Users\kammy\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.229\src\lib.rs:
+C:\Users\kammy\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.229\src\integer128.rs:
+C:\Users\kammy\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.229\src\private\mod.rs:
+C:\Users\kammy\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.229\src\private\de.rs:
+C:\Users\kammy\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.229\src\private\ser.rs:
+C:\Users\kammy\OneDrive\Documents\GitHub\eeee\e\target\debug\build\serde-038d4055a2ce855b\out/private.rs:
+
+# env-dep:OUT_DIR=C:\\Users\\kammy\\OneDrive\\Documents\\GitHub\\eeee\\e\\target\\debug\\build\\serde-038d4055a2ce855b\\out
